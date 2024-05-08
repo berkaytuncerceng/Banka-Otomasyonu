@@ -1,2 +1,3 @@
-# Banka Otomasyonu
- C# ve Windows Form ile Banka Uygulaması
+## Banka Otomasyonu
+# C# ve Windows Form ile Banka Uygulaması
+Banka işlemlerini yönetmek için bir yazılım sunar. İşlevler arasında yeni müşteri eklemek, hesap açtırmak, para çekme, para yatırma, hesaba havale yapma ve banka gelir-gider raporu oluşturma bulunmaktadır. Her müşteri için benzersiz bir müşteri numarası ve her hesap için benzersiz bir hesap numarası atanır. Ayrıcalıklı müşteri tipleri arasında ticari ve bireysel müşteriler bulunmaktadır. Günlük maksimum para çekme limiti vardır ve ticari müşterilerden havale ücreti alınmazken, bireysel müşterilerden gönderilecek tutarın %2'si havale ücreti olarak kesilir. Bankanın gelir-giderleri raporlanarak görüntülenebilir ve bu raporlama için grid bileşeni kullanılmıştır.
